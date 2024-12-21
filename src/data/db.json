@@ -1,0 +1,105 @@
+{
+  "students": [
+    {
+      "id": 1,
+      "name": "trần văn chánh",
+      "gender": "Female",
+      "subject": [
+        "Java"
+      ],
+      "class": {
+        "id": 2,
+        "name": "C08"
+      }
+    },
+    {
+      "id": 2,
+      "name": "admin",
+      "gender": "Female",
+      "subject": [
+        "Java"
+      ],
+      "class": {
+        "id": 1,
+        "name": "C07"
+      }
+    },
+    {
+      "id": 3,
+      "name": "admin",
+      "gender": "Female",
+      "subject": [
+        "Java",
+        "JS",
+        "PHP"
+      ],
+      "class": {
+        "id": 2,
+        "name": "C08"
+      }
+    },
+    {
+      "id": 4,
+      "name": "Nguyễn Văn E",
+      "gender": "Female",
+      "subject": [
+        "JS",
+        "Java"
+      ],
+      "class": {
+        "id": 1,
+        "name": "C07"
+      }
+    },
+    {
+      "id": 5,
+      "name": "chanh111",
+      "gender": "Female",
+      "subject": [
+        "Java",
+        "JS"
+      ],
+      "class": {
+        "id": 2,
+        "name": "C08"
+      }
+    },
+    {
+      "id": 6,
+      "name": "admin",
+      "gender": "Female",
+      "subject": [
+        "Java"
+      ],
+      "class": {
+        "id": 2,
+        "name": "C08"
+      }
+    }
+  ],
+  "classes": [
+    {
+      "id": 1,
+      "name": "C07"
+    },
+    {
+      "id": 2,
+      "name": "C08"
+    }
+  ],
+  "accounts" : [
+    {
+      "id": 1,
+      "username": "chanhtv",
+      "password" : "123",
+      "role": "ADMIN"
+    },
+    {
+      "id": 2,
+      "username": "haitt",
+      "password" : "123",
+      "role": "USER"
+    }
+
+  ]
+}
